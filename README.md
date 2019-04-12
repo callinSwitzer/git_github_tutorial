@@ -1,2 +1,12 @@
-# git_github_tutorial
+## git_github_tutorial
 github pracitce
+
+Here are the top 4 git functions
+
+```git add . ```
+
+```git commit -m "your message here"```
+
+```git push```
+
+```git pull```
