@@ -10,3 +10,9 @@ Here are the top 4 git functions
 ```git push```
 
 ```git pull```
+
+
+Here are some less useful functions
+```git clone```
+
+```git status```
