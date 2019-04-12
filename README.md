@@ -17,3 +17,7 @@ Here are some less useful functions
 ```git clone```
 
 ```git status```
+
+```git fetch```
+
+```git merge```
