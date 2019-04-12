@@ -1,5 +1,4 @@
-## git_github_tutorial
-github pracitce
+## Git reference tips
 
 Here are the top 4 git functions
 
@@ -12,7 +11,7 @@ Here are the top 4 git functions
 ```git pull```
 
 
-Here are some less useful functions
+Here are some other useful functions
 
 ```git clone```
 
