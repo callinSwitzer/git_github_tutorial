@@ -1,6 +1,6 @@
 ## Git reference tips
 
-Here are the top 4 git functions
+Here are my top 4 git functions
 
 ```git add . ```
 
