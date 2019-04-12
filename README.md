@@ -13,6 +13,7 @@ Here are the top 4 git functions
 
 
 Here are some less useful functions
+
 ```git clone```
 
 ```git status```
